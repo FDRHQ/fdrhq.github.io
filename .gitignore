@@ -1,0 +1,4 @@
+# Ignore system and deployment artifacts
+node_modules/
+dist/
+.env
